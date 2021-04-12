@@ -1,0 +1,5 @@
+eden
+dva
+tri
+cetiri
+pet
